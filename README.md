@@ -1,22 +1,4 @@
 <style>
-h1 {
-    text-align: center;
-    font-family: monospace;
-    letter-spacing: 3px;
-}
-
-h2 {
-    text-align: center;
-    font-family: monospace;
-    font-weight: normal;
-    letter-spacing: 3px;
-}
-
-p {
-    text-align: center;
-    font-family: monospace;
-}
-
 img {
     display: block;
     margin-left: auto;
@@ -35,13 +17,13 @@ img {
 }
 </style>
 
-<h1>hi 👋, im sevn</h1>
+<h1 style="text-align: center;font-family: monospace;letter-spacing: 3px;">hi 👋, im sevn</h1>
 
-<p>junior software developer from poland</p>
+<p style="text-align: center;font-family: monospace;">junior software developer from poland</p>
 <hr />
-<img src="https://komarev.com/ghpvc/?username=sevnnn&label=profile%20views&color=231969&style=for-the-badge" alt="sevnnn" />
+<img style="display: block;margin-left: auto;margin-right: auto;" src="https://komarev.com/ghpvc/?username=sevnnn&label=profile%20views&color=231969&style=for-the-badge" alt="sevnnn" />
 
-<h2>stats</h2>
+<h2 style="text-align: center;font-family: monospace;font-weight: normal;letter-spacing: 3px;">stats</h2>
 
 <div class="row">
 
@@ -52,7 +34,7 @@ img {
 </div>
 
 
-<h2>toolbox</h2>
+<h2 style="text-align: center;font-family: monospace;font-weight: normal;letter-spacing: 3px;">toolbox</h2>
 
 <div class="row">
 
